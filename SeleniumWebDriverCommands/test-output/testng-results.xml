@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-08T07:57:11 IST" name="Default suite" finished-at="2026-09-08T07:58:41 IST" duration-ms="90010">
+    <groups>
+    </groups>
+    <test started-at="2026-09-08T07:57:11 IST" name="Default test" finished-at="2026-09-08T07:58:41 IST" duration-ms="90010">
+      <class name="webdrivercommands.BrowserCommands">
+        <test-method signature="ChromeBrowserTest()[pri:1, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:57:11 IST" name="ChromeBrowserTest" finished-at="2026-09-08T07:57:47 IST" duration-ms="36330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowserTest -->
+        <test-method signature="FirefoxBrowserTest()[pri:2, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:57:47 IST" name="FirefoxBrowserTest" finished-at="2026-09-08T07:58:01 IST" duration-ms="14083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowserTest -->
+        <test-method signature="EdgeBrowserTest9()[pri:3, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:01 IST" name="EdgeBrowserTest9" finished-at="2026-09-08T07:58:09 IST" duration-ms="7348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest9 -->
+        <test-method signature="EdgeBrowserTest1()[pri:4, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:09 IST" name="EdgeBrowserTest1" finished-at="2026-09-08T07:58:12 IST" duration-ms="3276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest1 -->
+        <test-method signature="EdgeBrowserTest2()[pri:5, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:12 IST" name="EdgeBrowserTest2" finished-at="2026-09-08T07:58:15 IST" duration-ms="3023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest2 -->
+        <test-method signature="EdgeBrowserTest3()[pri:6, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:15 IST" name="EdgeBrowserTest3" finished-at="2026-09-08T07:58:20 IST" duration-ms="5197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest3 -->
+        <test-method signature="EdgeBrowserTest4()[pri:7, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:20 IST" name="EdgeBrowserTest4" finished-at="2026-09-08T07:58:26 IST" duration-ms="5744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest4 -->
+        <test-method signature="EdgeBrowserTest()[pri:8, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:26 IST" name="EdgeBrowserTest" finished-at="2026-09-08T07:58:33 IST" duration-ms="7044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest -->
+        <test-method signature="EdgeBrowserTest5()[pri:9, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:33 IST" name="EdgeBrowserTest5" finished-at="2026-09-08T07:58:38 IST" duration-ms="4445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest5 -->
+        <test-method signature="EdgeBrowserTest6()[pri:10, instance:webdrivercommands.BrowserCommands@6f15d60e]" started-at="2026-09-08T07:58:38 IST" name="EdgeBrowserTest6" finished-at="2026-09-08T07:58:41 IST" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowserTest6 -->
+      </class> <!-- webdrivercommands.BrowserCommands -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

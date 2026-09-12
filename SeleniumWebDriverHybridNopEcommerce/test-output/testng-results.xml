@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-13T00:11:44 IST" name="Default suite" finished-at="2026-09-13T00:11:50 IST" duration-ms="5661">
+    <groups>
+    </groups>
+    <test started-at="2026-09-13T00:11:44 IST" name="Default test" finished-at="2026-09-13T00:11:50 IST" duration-ms="5661">
+      <class name="com.JotForm.TestCases.LoginNopForm">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.JotForm.TestCases.LoginNopForm@7dc3712]" started-at="2026-09-13T00:11:44 IST" name="setUp" finished-at="2026-09-13T00:11:44 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="browserTest()[pri:0, instance:com.JotForm.TestCases.LoginNopForm@7dc3712]" started-at="2026-09-13T00:11:44 IST" name="browserTest" finished-at="2026-09-13T00:11:47 IST" duration-ms="2948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method signature="loginApp()[pri:0, instance:com.JotForm.TestCases.LoginNopForm@7dc3712]" started-at="2026-09-13T00:11:47 IST" name="loginApp" finished-at="2026-09-13T00:11:48 IST" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.JotForm.TestCases.LoginNopForm@7dc3712]" started-at="2026-09-13T00:11:49 IST" name="tearDownMethod" finished-at="2026-09-13T00:11:49 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginNopForm.loginApp()[pri:0, instance:com.JotForm.TestCases.LoginNopForm@7dc3712] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.JotForm.TestCases.LoginNopForm@7dc3712]" started-at="2026-09-13T00:11:49 IST" name="tearDown" finished-at="2026-09-13T00:11:50 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.JotForm.TestCases.LoginNopForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
