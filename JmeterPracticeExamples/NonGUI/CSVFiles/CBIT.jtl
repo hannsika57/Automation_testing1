@@ -1,0 +1,26 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1789465202783,596,JMeterDownload-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,18894,138,1,5,https://jmeter.apache.org/download_jmeter.cgi,576,0,374
+1789465202783,846,Login-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,5748,120,1,5,https://blazedemo.com/login,837,0,432
+1789465202783,849,Fish-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4610,175,1,5,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH,849,0,655
+1789465203385,287,Changes History-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,1311515,139,1,5,https://jmeter.apache.org/changes_history.html,49,0,0
+1789465203633,162,Dogs-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4982,175,1,5,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS,162,0,0
+1789465202783,1088,Tutorials-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,28489,137,1,5,https://www.easycalculation.com/tutorial.php,848,0,579
+1789465203673,231,Sponsors -HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,39975,135,1,5,https://www.apache.org/foundation/sponsors,201,0,181
+1789465203905,23,Source Repositories-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,14098,132,1,5,https://jmeter.apache.org/svnindex.html,23,0,0
+1789465203929,21,Security-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,14982,132,1,5,https://jmeter.apache.org/security.html,21,0,0
+1789465203796,157,Reptiles-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4262,179,1,5,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES,156,0,0
+1789465203630,437,Register-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,6342,123,1,4,https://blazedemo.com/register,422,0,0
+1789465203954,150,Cats-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4256,175,1,4,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,150,0,0
+1789465203873,243,Dictionary-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,30848,151,1,4,https://www.easycalculation.com/maths-dictionary/index.php,243,0,0
+1789465202783,1371,Bolg-TTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,167260,133,1,4,https://practicetestautomation.com/blog/,1347,0,363
+1789465204105,150,Birds-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4260,176,1,4,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS,149,0,0
+1789465204117,246,Converters-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,23568,150,1,3,https://www.easycalculation.com/unit-conversion/index.php,245,0,0
+1789465204156,286,Courses-HTTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,160582,136,1,3,https://practicetestautomation.com/courses/,274,0,0
+1789465204443,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Practice Test Automation-Thread Group 3-1,text,false,,875,0,1,3,null,0,0,0
+1789465204364,254,Currency-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,20331,153,1,3,https://www.easycalculation.com/currency-converter/index.php,254,0,0
+1789465204068,590,Reserve -HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,7249,130,1,3,https://www.blazedemo.com/reserve.php,581,0,195
+1789465204444,279,Practice Test table-HTTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,139577,148,1,3,https://practicetestautomation.com/practice-test-table/,267,0,0
+1789465204620,247,Charts-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,31053,146,1,3,https://www.easycalculation.com/charts-and-tables.php,244,0,0
+1789465204724,272,Contact-HTTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,140336,136,1,2,https://practicetestautomation.com/contact/,265,0,0
+1789465204659,394,Purchase-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,6715,127,1,1,https://blazedemo.com/purchase.php,386,0,0
+1789465205053,415,Vacation-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,3353,128,1,1,https://blazedemo.com/vacation.html,414,0,0

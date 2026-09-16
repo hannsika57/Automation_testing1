@@ -1,0 +1,26 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1789464308848,607,JMeterDownload-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,18886,138,1,5,https://jmeter.apache.org/download_jmeter.cgi,555,0,348
+1789464308848,761,Fish-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4610,175,1,5,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH,761,0,606
+1789464308848,785,Login-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,5752,120,1,5,https://blazedemo.com/login,784,0,398
+1789464309459,287,Changes History-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,1311514,139,1,5,https://jmeter.apache.org/changes_history.html,40,0,0
+1789464309610,146,Dogs-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4982,175,1,5,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS,145,0,0
+1789464309747,93,Sponsors -HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,39974,135,1,5,https://www.apache.org/foundation/sponsors,85,0,59
+1789464309841,46,Source Repositories-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,14097,132,1,5,https://jmeter.apache.org/svnindex.html,46,0,0
+1789464309757,165,Reptiles-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4262,179,1,5,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES,164,0,0
+1789464309887,41,Security-HTTP Request,200,OK, JMeter Test Plan 1-1,text,true,,14981,132,1,5,https://jmeter.apache.org/security.html,41,0,0
+1789464308848,1156,Tutorials-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,28489,137,1,4,https://www.easycalculation.com/tutorial.php,1145,0,655
+1789464309634,415,Register-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,6356,123,1,4,https://blazedemo.com/register,408,0,0
+1789464309922,166,Cats-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4256,175,1,4,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,166,0,0
+1789464310005,247,Dictionary-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,30848,151,1,4,https://www.easycalculation.com/maths-dictionary/index.php,246,0,0
+1789464310089,163,Birds-HTTP Request,200,,PetStore Test Plan 5-1,text,true,,4260,176,1,4,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS,163,0,0
+1789464308848,1415,Bolg-TTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,167267,133,1,3,https://practicetestautomation.com/blog/,1398,0,348
+1789464310253,251,Converters-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,23568,150,1,3,https://www.easycalculation.com/unit-conversion/index.php,251,0,0
+1789464310264,313,Courses-HTTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,160584,136,1,3,https://practicetestautomation.com/courses/,281,0,0
+1789464310578,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Practice Test Automation-Thread Group 3-1,text,false,,875,0,1,3,null,0,0,0
+1789464310051,651,Reserve -HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,7249,130,1,3,https://www.blazedemo.com/reserve.php,642,0,235
+1789464310505,314,Currency-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,20331,153,1,3,https://www.easycalculation.com/currency-converter/index.php,314,0,0
+1789464310579,288,Practice Test table-HTTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,139585,148,1,3,https://practicetestautomation.com/practice-test-table/,281,0,0
+1789464310820,243,Charts-HTTP Request,200,OK,Easy Calculation Test Plan 2-1,text,true,,31053,146,1,3,https://www.easycalculation.com/charts-and-tables.php,242,0,0
+1789464310704,414,Purchase-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,6719,127,1,2,https://blazedemo.com/purchase.php,413,0,0
+1789464310867,295,Contact-HTTP Request,200,OK,Practice Test Automation-Thread Group 3-1,text,true,,140334,136,1,2,https://practicetestautomation.com/contact/,280,0,0
+1789464311118,380,Vacation-HTTP Request,200,OK,Blaze Demo Test Plan 4-1,text,true,,3349,128,1,1,https://blazedemo.com/vacation.html,378,0,0

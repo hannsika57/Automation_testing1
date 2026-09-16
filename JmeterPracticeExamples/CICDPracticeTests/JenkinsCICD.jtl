@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1259" it="0" lt="752" ct="726" ts="1789539478786" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-1" dt="text" by="387906" sby="154" ng="3" na="15">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="915" it="0" lt="375" ct="347" ts="1789539479166" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-2" dt="text" by="387906" sby="154" ng="3" na="15">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="955" it="0" lt="572" ct="353" ts="1789539479161" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-2" dt="text" by="316267" sby="143" ng="3" na="15">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1516" it="0" lt="959" ct="727" ts="1789539478786" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-1" dt="text" by="316267" sby="143" ng="4" na="20">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="408" it="0" lt="61" ct="0" ts="1789539480083" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-2" dt="text" by="387906" sby="154" ng="4" na="20">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="511" it="0" lt="64" ct="0" ts="1789539480064" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-1" dt="text" by="387913" sby="154" ng="4" na="20">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="475" it="0" lt="79" ct="0" ts="1789539480117" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-2" dt="text" by="316267" sby="143" ng="4" na="20">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="891" it="0" lt="122" ct="0" ts="1789539480493" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-2" dt="text" by="387906" sby="154" ng="6" na="30">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1278" it="0" lt="358" ct="235" ts="1789539480171" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-4" dt="text" by="387906" sby="154" ng="5" na="29">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1317" it="0" lt="117" ct="0" ts="1789539480306" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-1" dt="text" by="316267" sby="143" ng="6" na="29">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1128" it="0" lt="176" ct="0" ts="1789539480593" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-2" dt="text" by="316267" sby="143" ng="7" na="34">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1516" it="0" lt="144" ct="0" ts="1789539480577" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-1" dt="text" by="387906" sby="154" ng="6" na="33">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="3613" it="0" lt="1944" ct="726" ts="1789539478786" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-1" dt="text" by="355064" sby="126" ng="8" na="37">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="1874" it="0" lt="722" ct="507" ts="1789539480675" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-5" dt="text" by="387906" sby="154" ng="6" na="37">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1105" it="0" lt="229" ct="0" ts="1789539481450" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-4" dt="text" by="387906" sby="154" ng="6" na="37">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2593" it="0" lt="975" ct="452" ts="1789539480164" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-4" dt="text" by="316267" sby="143" ng="8" na="42">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="3725" it="0" lt="1734" ct="1510" ts="1789539479666" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-3" dt="text" by="387906" sby="154" ng="8" na="47">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="4369" it="0" lt="1923" ct="357" ts="1789539479156" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-2" dt="text" by="355187" sby="126" ng="10" na="47">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="1074" it="0" lt="522" ct="0" ts="1789539482554" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-5" dt="text" by="387906" sby="154" ng="8" na="47">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1588" it="0" lt="521" ct="0" ts="1789539482557" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-4" dt="text" by="387906" sby="154" ng="8" na="47">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="4696" it="0" lt="2278" ct="1747" ts="1789539479663" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-3" dt="text" by="316267" sby="143" ng="9" na="46">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="3248" it="0" lt="729" ct="425" ts="1789539481173" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-6" dt="text" by="387906" sby="154" ng="7" na="46">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2838" it="0" lt="341" ct="0" ts="1789539481625" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-1" dt="text" by="316267" sby="143" ng="9" na="46">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1483" it="0" lt="586" ct="0" ts="1789539483631" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-5" dt="text" by="387906" sby="154" ng="7" na="45">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1940" it="0" lt="298" ct="0" ts="1789539483392" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-3" dt="text" by="387906" sby="154" ng="6" na="44">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="4901" it="0" lt="1843" ct="805" ts="1789539481668" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-7" dt="text" by="387906" sby="154" ng="6" na="44">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="4186" it="0" lt="626" ct="0" ts="1789539482758" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-4" dt="text" by="316267" sby="143" ng="8" na="44">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="5208" it="0" lt="1381" ct="905" ts="1789539482172" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-8" dt="text" by="387906" sby="154" ng="6" na="44">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="7320" it="0" lt="1853" ct="232" ts="1789539480155" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-4" dt="text" by="355283" sby="126" ng="10" na="44">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="7371" it="0" lt="2994" ct="522" ts="1789539480657" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-5" dt="text" by="355125" sby="126" ng="10" na="44">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6413" it="0" lt="2213" ct="1347" ts="1789539481668" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-7" dt="text" by="316267" sby="143" ng="8" na="44">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2812" it="0" lt="963" ct="0" ts="1789539485332" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-3" dt="text" by="387906" sby="154" ng="6" na="44">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="5989" it="0" lt="2596" ct="1393" ts="1789539482163" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-8" dt="text" by="316267" sby="143" ng="8" na="43">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="5698" it="0" lt="1639" ct="966" ts="1789539482668" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-9" dt="text" by="387906" sby="154" ng="5" na="43">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="4200" it="0" lt="699" ct="0" ts="1789539484360" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-3" dt="text" by="316267" sby="143" ng="8" na="43">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="4256" it="0" lt="941" ct="0" ts="1789539484422" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-6" dt="text" by="387906" sby="154" ng="5" na="43">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="5505" it="0" lt="1692" ct="986" ts="1789539483178" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-10" dt="text" by="387906" sby="154" ng="5" na="43">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="3352" it="0" lt="941" ct="0" ts="1789539486571" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-7" dt="text" by="387906" sby="154" ng="5" na="43">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2543" it="0" lt="613" ct="0" ts="1789539487381" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-8" dt="text" by="387906" sby="154" ng="5" na="43">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="7353" it="0" lt="3072" ct="1561" ts="1789539482661" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-9" dt="text" by="316267" sby="143" ng="8" na="43">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="8879" it="0" lt="4834" ct="826" ts="1789539481667" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-7" dt="text" by="355125" sby="126" ng="10" na="43">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="4133" it="0" lt="784" ct="0" ts="1789539486944" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-4" dt="text" by="316267" sby="143" ng="8" na="43">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="9208" it="0" lt="5606" ct="914" ts="1789539482163" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-8" dt="text" by="355299" sby="126" ng="10" na="42">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3603" it="0" lt="840" ct="0" ts="1789539488081" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-7" dt="text" by="316267" sby="143" ng="7" na="42">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="12099" it="0" lt="4639" ct="1530" ts="1789539479654" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-3" dt="text" by="355169" sby="126" ng="10" na="42">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3606" it="0" lt="848" ct="0" ts="1789539488153" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-8" dt="text" by="316267" sby="143" ng="7" na="42">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="8635" it="0" lt="3587" ct="1668" ts="1789539483164" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-10" dt="text" by="316266" sby="143" ng="7" na="42">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="8818" it="0" lt="4676" ct="1005" ts="1789539483164" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-10" dt="text" by="355106" sby="126" ng="10" na="42">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3706" it="0" lt="931" ct="0" ts="1789539488367" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-9" dt="text" by="387906" sby="154" ng="5" na="42">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="9453" it="0" lt="4934" ct="955" ts="1789539482660" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-9" dt="text" by="355222" sby="126" ng="10" na="42">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="9791" it="0" lt="3546" ct="0" ts="1789539482402" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-1" dt="text" by="355132" sby="126" ng="10" na="42">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3523" it="0" lt="922" ct="0" ts="1789539488684" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-10" dt="text" by="387906" sby="154" ng="5" na="42">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="11045" it="0" lt="1686" ct="825" ts="1789539481176" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-6" dt="text" by="316267" sby="143" ng="7" na="42">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2557" it="0" lt="944" ct="0" ts="1789539489926" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-8" dt="text" by="387906" sby="154" ng="5" na="42">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="11331" it="0" lt="3876" ct="437" ts="1789539481157" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-6" dt="text" by="355154" sby="126" ng="10" na="41">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3974" it="0" lt="804" ct="0" ts="1789539488561" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-3" dt="text" by="316267" sby="143" ng="7" na="41">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2623" it="0" lt="959" ct="0" ts="1789539489925" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-7" dt="text" by="387906" sby="154" ng="4" na="40">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2959" it="0" lt="955" ct="0" ts="1789539490015" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-9" dt="text" by="316267" sby="143" ng="6" na="39">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="12522" it="0" lt="1393" ct="765" ts="1789539480665" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-5" dt="text" by="316267" sby="143" ng="6" na="39">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2830" it="0" lt="1637" ct="0" ts="1789539490547" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-7" dt="text" by="355132" sby="126" ng="10" na="39">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="1632" it="0" lt="566" ct="0" ts="1789539491761" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-8" dt="text" by="316267" sby="143" ng="6" na="39">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1561" it="0" lt="430" ct="0" ts="1789539492210" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-10" dt="text" by="387906" sby="154" ng="3" na="38">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="5103" it="0" lt="960" ct="0" ts="1789539488679" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-6" dt="text" by="387906" sby="154" ng="2" na="37">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="10555" it="0" lt="4468" ct="0" ts="1789539483527" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-2" dt="text" by="355173" sby="126" ng="10" na="36">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="2513" it="0" lt="602" ct="0" ts="1789539491686" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-7" dt="text" by="316267" sby="143" ng="5" na="36">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2532" it="0" lt="563" ct="0" ts="1789539491801" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-10" dt="text" by="316266" sby="143" ng="4" na="35">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="3432" it="0" lt="1521" ct="0" ts="1789539491372" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-8" dt="text" by="355205" sby="126" ng="10" na="35">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="2756" it="0" lt="418" ct="0" ts="1789539492075" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-9" dt="text" by="387906" sby="154" ng="1" na="35">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2751" it="0" lt="385" ct="0" ts="1789539492223" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-6" dt="text" by="316267" sby="143" ng="4" na="34">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="8084" it="0" lt="2624" ct="0" ts="1789539487476" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-4" dt="text" by="355194" sby="126" ng="10" na="34">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="7812" it="0" lt="1768" ct="0" ts="1789539488028" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-5" dt="text" by="355313" sby="126" ng="10" na="34">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3043" it="0" lt="751" ct="0" ts="1789539492974" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-9" dt="text" by="316267" sby="143" ng="4" na="34">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2111" it="0" lt="858" ct="0" ts="1789539494334" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-10" dt="text" by="316267" sby="143" ng="3" na="33">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="16326" it="0" lt="382" ct="238" ts="1789539480155" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-4" dt="text" by="6945981" sby="143" ng="10" na="32">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="4780" it="0" lt="2955" ct="0" ts="1789539491983" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-10" dt="text" by="355256" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3823" it="0" lt="3006" ct="0" ts="1789539493377" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-7" dt="text" by="355244" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="2558" it="0" lt="673" ct="0" ts="1789539494975" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-6" dt="text" by="316267" sby="143" ng="2" na="31">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="5519" it="0" lt="3486" ct="0" ts="1789539492115" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-9" dt="text" by="355188" sby="126" ng="9" na="30">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="4674" it="0" lt="940" ct="0" ts="1789539493188" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-5" dt="text" by="316267" sby="143" ng="1" na="30">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="3624" it="0" lt="2490" ct="0" ts="1789539494805" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-8" dt="text" by="355080" sby="126" ng="9" na="30">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6588" it="0" lt="2977" ct="0" ts="1789539492194" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-1" dt="text" by="355326" sby="126" ng="8" na="29">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="16068" it="0" lt="1786" ct="1029" ts="1789539483150" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-10" dt="text" by="6945980" sby="143" ng="10" na="28">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="2831" it="0" lt="2064" ct="0" ts="1789539496764" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-10" dt="text" by="355299" sby="126" ng="7" na="28">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="19997" it="0" lt="1750" ct="1522" ts="1789539479650" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-3" dt="text" by="6945981" sby="143" ng="10" na="27">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="7930" it="0" lt="2696" ct="0" ts="1789539491755" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-3" dt="text" by="355065" sby="126" ng="6" na="27">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="1946" it="0" lt="797" ct="0" ts="1789539497863" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-5" dt="text" by="316267" sby="143" ng="1" na="27">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2539" it="0" lt="1461" ct="0" ts="1789539497635" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-9" dt="text" by="355190" sby="126" ng="6" na="26">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6907" it="0" lt="2554" ct="0" ts="1789539494084" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-2" dt="text" by="355113" sby="126" ng="5" na="25">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6391" it="0" lt="2599" ct="0" ts="1789539495562" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-4" dt="text" by="355149" sby="126" ng="4" na="24">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="9668" it="0" lt="3492" ct="0" ts="1789539492489" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-6" dt="text" by="355137" sby="126" ng="3" na="23">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6348" it="0" lt="2708" ct="0" ts="1789539495842" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-5" dt="text" by="355254" sby="126" ng="3" na="23">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6044" it="0" lt="2186" ct="0" ts="1789539499686" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-3" dt="text" by="355078" sby="126" ng="2" na="22">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="24402" it="0" lt="1412" ct="931" ts="1789539482154" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-8" dt="text" by="6945980" sby="143" ng="10" na="21">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="26267" it="0" lt="766" ct="523" ts="1789539480657" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-5" dt="text" by="6945980" sby="143" ng="10" na="21">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="4777" it="0" lt="1261" ct="0" ts="1789539502158" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-6" dt="text" by="355248" sby="126" ng="1" na="21">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="7842" it="0" lt="554" ct="0" ts="1789539499219" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-10" dt="text" by="6946590" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="27246" it="0" lt="834" ct="447" ts="1789539481156" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-6" dt="text" by="6945980" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15565" it="0" lt="683" ct="0" ts="1789539496482" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-4" dt="text" by="6946302" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15457" it="0" lt="539" ct="0" ts="1789539499648" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-3" dt="text" by="6946254" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="32976" it="0" lt="2310" ct="958" ts="1789539482660" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-9" dt="text" by="6945980" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="38567" it="0" lt="1853" ct="810" ts="1789539481651" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-7" dt="text" by="6945980" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="42468" it="0" lt="803" ct="732" ts="1789539478786" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-1" dt="text" by="6945966" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="42962" it="0" lt="444" ct="370" ts="1789539479150" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-2" dt="text" by="6945965" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15954" it="0" lt="150" ct="0" ts="1789539506924" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-5" dt="text" by="6945978" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="16616" it="0" lt="119" ct="0" ts="1789539507062" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-10" dt="text" by="6946012" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="17409" it="0" lt="105" ct="0" ts="1789539506556" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-8" dt="text" by="6945976" sby="143" ng="9" na="19">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15650" it="0" lt="124" ct="0" ts="1789539508402" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-6" dt="text" by="6945976" sby="143" ng="9" na="19">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15906" it="0" lt="146" ct="0" ts="1789539512049" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-4" dt="text" by="6945976" sby="143" ng="9" na="19">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14971" it="0" lt="127" ct="0" ts="1789539515105" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-3" dt="text" by="6945976" sby="143" ng="8" na="18">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="16989" it="0" lt="91" ct="0" ts="1789539515636" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-9" dt="text" by="6945976" sby="143" ng="7" na="17">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="12518" it="0" lt="135" ct="0" ts="1789539522113" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-2" dt="text" by="6945976" sby="143" ng="7" na="17">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15637" it="0" lt="138" ct="0" ts="1789539520218" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-7" dt="text" by="6945976" sby="143" ng="7" na="17">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15146" it="0" lt="108" ct="0" ts="1789539521256" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-1" dt="text" by="6945977" sby="143" ng="7" na="17">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="13823" it="0" lt="80" ct="0" ts="1789539524054" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-6" dt="text" by="6945976" sby="143" ng="7" na="17">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15455" it="0" lt="118" ct="0" ts="1789539522879" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-5" dt="text" by="6945976" sby="143" ng="6" na="16">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14817" it="0" lt="86" ct="0" ts="1789539523967" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-8" dt="text" by="6945976" sby="143" ng="5" na="15">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="10427" it="0" lt="70" ct="0" ts="1789539532628" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-9" dt="text" by="6945978" sby="143" ng="4" na="14">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="9205" it="0" lt="94" ct="0" ts="1789539534631" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-2" dt="text" by="6946012" sby="143" ng="3" na="13">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="8040" it="0" lt="198" ct="0" ts="1789539535855" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-7" dt="text" by="6945976" sby="143" ng="2" na="12">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="7708" it="0" lt="90" ct="0" ts="1789539536402" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-1" dt="text" by="6945976" sby="143" ng="1" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="66657" it="0" lt="32105" ct="19257" ts="1789539479658" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-3" dt="text" by="228626" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="63165" it="0" lt="62506" ct="15640" ts="1789539483164" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-10" dt="text" by="228613" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="65251" it="0" lt="64358" ct="64217" ts="1789539481669" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-7" dt="text" by="228595" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="67011" it="0" lt="64960" ct="31283" ts="1789539480164" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-4" dt="text" by="228588" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="65067" it="0" lt="62633" ct="28538" ts="1789539482163" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-8" dt="text" by="228597" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1071" it="0" lt="211" ct="120" ts="1789539546315" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-3" dt="text" by="228595" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1218" it="0" lt="222" ct="123" ts="1789539546329" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-10" dt="text" by="228613" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="68478" it="0" lt="19227" ct="11518" ts="1789539479156" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-2" dt="text" by="228611" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="66582" it="0" lt="30590" ct="17425" ts="1789539481173" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-6" dt="text" by="228621" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="470" it="0" lt="99" ct="0" ts="1789539547388" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-3" dt="text" by="228613" sby="311" ng="10" na="10">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="987" it="0" lt="349" ct="261" ts="1789539546921" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-7" dt="text" by="228596" sby="311" ng="9" na="9">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="873" it="0" lt="241" ct="150" ts="1789539547176" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-4" dt="text" by="228611" sby="311" ng="9" na="9">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="833" it="0" lt="202" ct="119" ts="1789539547230" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-8" dt="text" by="228588" sby="311" ng="9" na="9">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="688" it="0" lt="105" ct="0" ts="1789539547550" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-10" dt="text" by="228589" sby="311" ng="9" na="9">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="474" it="0" lt="87" ct="0" ts="1789539547909" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-7" dt="text" by="228612" sby="311" ng="8" na="8">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="848" it="0" lt="212" ct="121" ts="1789539547635" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-2" dt="text" by="228589" sby="311" ng="7" na="7">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="461" it="0" lt="96" ct="0" ts="1789539548050" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-4" dt="text" by="228636" sby="311" ng="7" na="7">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="842" it="0" lt="205" ct="119" ts="1789539547756" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-6" dt="text" by="228636" sby="311" ng="6" na="6">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="625" it="0" lt="217" ct="0" ts="1789539548064" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-8" dt="text" by="240165" sby="311" ng="6" na="6">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="453" it="0" lt="87" ct="0" ts="1789539548485" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-2" dt="text" by="228566" sby="311" ng="5" na="5">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="550" it="0" lt="93" ct="0" ts="1789539548599" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-6" dt="text" by="228582" sby="311" ng="4" na="4">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="74987" it="0" lt="71216" ct="16041" ts="1789539482660" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-9" dt="text" by="240159" sby="311" ng="3" na="3">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1001" it="0" lt="285" ct="200" ts="1789539557648" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-9" dt="text" by="228603" sby="311" ng="3" na="3">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="78010" it="0" lt="30566" ct="18250" ts="1789539480665" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-5" dt="text" by="228588" sby="311" ng="3" na="3">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="505" it="0" lt="102" ct="0" ts="1789539558650" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-9" dt="text" by="228597" sby="311" ng="3" na="3">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="585" it="0" lt="198" ct="112" ts="1789539558675" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-5" dt="text" by="228574" sby="311" ng="2" na="2">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="357" it="0" lt="87" ct="0" ts="1789539559261" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-5" dt="text" by="228580" sby="311" ng="2" na="2">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="179643" it="0" lt="20128" ct="11989" ts="1789539478786" s="false" lb="Daraz-HTTP Request" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Connection reset" tn="Thread Group3 3-1" dt="text" by="2257" sby="0" ng="1" na="1">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="4495" it="0" lt="3451" ct="3198" ts="1789539658431" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-1" dt="text" by="228611" sby="311" ng="1" na="1">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="807" it="0" lt="201" ct="0" ts="1789539662929" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-1" dt="text" by="228635" sby="311" ng="1" na="1">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+
+<httpSample t="1702" it="0" lt="1524" ct="1470" ts="1789547059241" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-1" dt="text" by="316268" sby="143" ng="4" na="20">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1267" it="0" lt="1089" ct="1035" ts="1789547059677" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-2" dt="text" by="316268" sby="143" ng="4" na="20">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="812" it="0" lt="588" ct="534" ts="1789547060178" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-3" dt="text" by="316268" sby="143" ng="4" na="20">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="853" it="0" lt="649" ct="338" ts="1789547060180" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-3" dt="text" by="388294" sby="154" ng="4" na="20">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="416" it="0" lt="38" ct="0" ts="1789547060954" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-2" dt="text" by="316268" sby="143" ng="5" na="25">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="428" it="0" lt="40" ct="0" ts="1789547060954" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-1" dt="text" by="316268" sby="143" ng="5" na="25">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="740" it="0" lt="244" ct="125" ts="1789547060677" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-4" dt="text" by="316269" sby="143" ng="5" na="25">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2355" it="0" lt="1619" ct="1529" ts="1789547059240" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-1" dt="text" by="228603" sby="311" ng="5" na="25">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1922" it="0" lt="1217" ct="1119" ts="1789547059674" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-2" dt="text" by="228619" sby="311" ng="5" na="25">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1987" it="0" lt="1173" ct="841" ts="1789547059678" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-2" dt="text" by="387916" sby="154" ng="5" na="25">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="640" it="0" lt="320" ct="199" ts="1789547061174" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-5" dt="text" by="228635" sby="311" ng="6" na="30">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1641" it="0" lt="828" ct="597" ts="1789547060173" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-3" dt="text" by="240213" sby="311" ng="6" na="30">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1161" it="0" lt="441" ct="186" ts="1789547060674" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-4" dt="text" by="240164" sby="311" ng="6" na="30">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="995" it="0" lt="68" ct="0" ts="1789547060991" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-3" dt="text" by="316268" sby="143" ng="6" na="30">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="228" it="0" lt="93" ct="0" ts="1789547061814" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-5" dt="text" by="228595" sby="311" ng="6" na="30">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1048" it="0" lt="87" ct="0" ts="1789547061035" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-3" dt="text" by="388264" sby="154" ng="6" na="30">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="770" it="0" lt="125" ct="0" ts="1789547061382" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-1" dt="text" by="316268" sby="143" ng="6" na="30">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="784" it="0" lt="138" ct="0" ts="1789547061372" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-2" dt="text" by="316268" sby="143" ng="5" na="29">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="822" it="0" lt="202" ct="0" ts="1789547061418" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-4" dt="text" by="316268" sby="143" ng="5" na="33">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="647" it="0" lt="92" ct="0" ts="1789547061597" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-1" dt="text" by="228619" sby="311" ng="7" na="33">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="648" it="0" lt="109" ct="0" ts="1789547061598" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-2" dt="text" by="228635" sby="311" ng="7" na="33">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="296" it="0" lt="223" ct="0" ts="1789547062043" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-5" dt="text" by="240205" sby="311" ng="7" na="33">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="603" it="0" lt="157" ct="0" ts="1789547061836" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-4" dt="text" by="228605" sby="311" ng="6" na="32">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="625" it="0" lt="86" ct="0" ts="1789547061814" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-3" dt="text" by="228635" sby="311" ng="6" na="32">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="3290" it="0" lt="1781" ct="1279" ts="1789547059240" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-1" dt="text" by="388503" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="435" it="0" lt="106" ct="0" ts="1789547062247" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-2" dt="text" by="228590" sby="311" ng="7" na="37">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1141" it="0" lt="357" ct="211" ts="1789547061684" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-6" dt="text" by="228597" sby="311" ng="6" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="416" it="0" lt="96" ct="0" ts="1789547062440" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-4" dt="text" by="228611" sby="311" ng="6" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="619" it="0" lt="238" ct="0" ts="1789547062245" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-1" dt="text" by="240175" sby="311" ng="5" na="35">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1311" it="0" lt="355" ct="0" ts="1789547061666" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-2" dt="text" by="388075" sby="154" ng="8" na="34">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="559" it="0" lt="224" ct="0" ts="1789547062440" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-3" dt="text" by="240175" sby="311" ng="4" na="34">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1013" it="0" lt="341" ct="236" ts="1789547062183" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-7" dt="text" by="228605" sby="311" ng="4" na="38">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="2048" it="0" lt="814" ct="435" ts="1789547061190" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-5" dt="text" by="388075" sby="154" ng="9" na="38">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1006" it="0" lt="277" ct="0" ts="1789547062241" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-4" dt="text" by="316268" sby="143" ng="7" na="38">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1328" it="0" lt="284" ct="0" ts="1789547061987" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-3" dt="text" by="316268" sby="143" ng="6" na="37">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="794" it="0" lt="433" ct="206" ts="1789547062683" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-8" dt="text" by="240197" sby="311" ng="4" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="688" it="0" lt="261" ct="0" ts="1789547062825" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-6" dt="text" by="240165" sby="311" ng="4" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="469" it="0" lt="86" ct="0" ts="1789547063198" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-7" dt="text" by="228627" sby="311" ng="4" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="383" it="0" lt="95" ct="0" ts="1789547063478" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-8" dt="text" by="228597" sby="311" ng="5" na="41">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="368" it="0" lt="92" ct="0" ts="1789547063514" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-6" dt="text" by="228635" sby="311" ng="5" na="41">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="702" it="0" lt="318" ct="211" ts="1789547063182" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-9" dt="text" by="228634" sby="311" ng="4" na="40">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="434" it="0" lt="94" ct="0" ts="1789547063668" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-7" dt="text" by="228596" sby="311" ng="4" na="40">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="3042" it="0" lt="1377" ct="815" ts="1789547061190" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-5" dt="text" by="316268" sby="143" ng="6" na="39">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="376" it="0" lt="95" ct="0" ts="1789547063862" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-8" dt="text" by="228613" sby="311" ng="3" na="39">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="2340" it="0" lt="325" ct="0" ts="1789547062084" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-3" dt="text" by="388075" sby="154" ng="10" na="38">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="747" it="0" lt="222" ct="0" ts="1789547063885" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-9" dt="text" by="240181" sby="311" ng="2" na="37">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="1226" it="0" lt="286" ct="191" ts="1789547063679" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-10" dt="text" by="228611" sby="311" ng="2" na="37">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="316" it="0" lt="87" ct="0" ts="1789547064632" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-9" dt="text" by="228581" sby="311" ng="2" na="37">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="4752" it="0" lt="776" ct="97" ts="1789547060678" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-4" dt="text" by="388262" sby="154" ng="9" na="36">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="207" ct="0" ts="1789547064906" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-10" dt="text" by="240168" sby="311" ng="1" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="5481" it="0" lt="2277" ct="345" ts="1789547060173" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-3" dt="text" by="355213" sby="126" ng="10" na="36">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="360" it="0" lt="88" ct="0" ts="1789547065528" s="true" lb="Daraz-HTTP Request" rc="200" rm="OK" tn="Thread Group3 3-10" dt="text" by="228588" sby="311" ng="1" na="36">
+  <java.net.URL>https://www.daraz.pk/products/dove-hairfall-rescue-shampoo-360ml-i103592049-s1249730433.html?scm=1007.51610.379274.0&amp;pvid=825bc9fe-71b4-49a3-a3a9-6fd910f5a6df&amp;search=flashsale&amp;spm=a2a0e.tm80335142.FlashSale.d_103592049</java.net.URL>
+</httpSample>
+<httpSample t="4247" it="0" lt="933" ct="668" ts="1789547061684" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-6" dt="text" by="388083" sby="154" ng="9" na="35">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2965" it="0" lt="831" ct="0" ts="1789547063239" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-5" dt="text" by="388075" sby="154" ng="9" na="35">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="4398" it="0" lt="1223" ct="0" ts="1789547064233" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-5" dt="text" by="316268" sby="143" ng="6" na="35">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="6979" it="0" lt="1960" ct="933" ts="1789547061684" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-6" dt="text" by="316268" sby="143" ng="6" na="35">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="5788" it="0" lt="708" ct="0" ts="1789547062978" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-2" dt="text" by="388075" sby="154" ng="9" na="35">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="6630" it="0" lt="2769" ct="1064" ts="1789547062183" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-7" dt="text" by="316268" sby="143" ng="6" na="34">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="2658" it="0" lt="2273" ct="0" ts="1789547066206" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-5" dt="text" by="388075" sby="154" ng="8" na="34">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="9499" it="0" lt="3033" ct="845" ts="1789547059673" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-2" dt="text" by="355262" sby="126" ng="10" na="33">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="661" it="0" lt="297" ct="0" ts="1789547068632" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-5" dt="text" by="316269" sby="143" ng="6" na="33">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="10074" it="0" lt="3475" ct="1287" ts="1789547059241" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-1" dt="text" by="355089" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6759" it="0" lt="5721" ct="2139" ts="1789547062682" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-8" dt="text" by="316268" sby="143" ng="5" na="32">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="6915" it="0" lt="274" ct="0" ts="1789547062532" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-1" dt="text" by="388075" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="3542" it="0" lt="2473" ct="0" ts="1789547065932" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-6" dt="text" by="388075" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="1055" it="0" lt="330" ct="0" ts="1789547068664" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-6" dt="text" by="316268" sby="143" ng="5" na="32">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="7036" it="0" lt="2003" ct="1125" ts="1789547062683" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-8" dt="text" by="388075" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="7571" it="0" lt="3261" ct="526" ts="1789547062183" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-7" dt="text" by="355271" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="8090" it="0" lt="3198" ct="670" ts="1789547061684" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-6" dt="text" by="355137" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="8602" it="0" lt="3578" ct="441" ts="1789547061174" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-5" dt="text" by="355117" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="7184" it="0" lt="3073" ct="1154" ts="1789547062683" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-8" dt="text" by="355133" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="1174" it="0" lt="337" ct="0" ts="1789547068814" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-7" dt="text" by="316269" sby="143" ng="5" na="32">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="6902" it="0" lt="5142" ct="1667" ts="1789547063182" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-9" dt="text" by="355169" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="9439" it="0" lt="3678" ct="67" ts="1789547060673" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-4" dt="text" by="355287" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="6497" it="0" lt="4654" ct="1963" ts="1789547063679" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-10" dt="text" by="388075" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="7004" it="0" lt="2990" ct="1672" ts="1789547063181" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-9" dt="text" by="388075" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="6651" it="0" lt="4863" ct="1963" ts="1789547063679" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-10" dt="text" by="355211" sby="126" ng="10" na="32">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="1024" it="0" lt="391" ct="0" ts="1789547069440" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-8" dt="text" by="316268" sby="143" ng="5" na="32">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="7308" it="0" lt="5589" ct="2984" ts="1789547063181" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-9" dt="text" by="316268" sby="143" ng="5" na="32">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1210" it="0" lt="441" ct="0" ts="1789547069474" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-6" dt="text" by="388075" sby="154" ng="7" na="32">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="8524" it="0" lt="1040" ct="521" ts="1789547062183" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-7" dt="text" by="388091" sby="154" ng="6" na="31">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="7378" it="0" lt="5355" ct="4652" ts="1789547063679" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-10" dt="text" by="316268" sby="143" ng="5" na="31">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="834" it="0" lt="775" ct="0" ts="1789547070464" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-8" dt="text" by="316269" sby="143" ng="5" na="31">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1580" it="0" lt="525" ct="0" ts="1789547069720" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-8" dt="text" by="388075" sby="154" ng="6" na="30">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2184" it="0" lt="502" ct="0" ts="1789547069719" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-6" dt="text" by="316268" sby="143" ng="4" na="30">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="1932" it="0" lt="634" ct="0" ts="1789547070177" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-10" dt="text" by="388075" sby="154" ng="6" na="29">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="2495" it="0" lt="640" ct="0" ts="1789547070185" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-9" dt="text" by="388075" sby="154" ng="6" na="29">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="3489" it="0" lt="618" ct="0" ts="1789547069988" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-7" dt="text" by="316268" sby="143" ng="3" na="29">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="6507" it="0" lt="1407" ct="0" ts="1789547071300" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-8" dt="text" by="388076" sby="154" ng="6" na="28">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="7605" it="0" lt="833" ct="0" ts="1789547070489" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-9" dt="text" by="316269" sby="143" ng="2" na="27">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="10847" it="0" lt="3741" ct="0" ts="1789547069754" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-7" dt="text" by="355110" sby="126" ng="10" na="27">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="15019" it="0" lt="2888" ct="0" ts="1789547065654" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-3" dt="text" by="355193" sby="126" ng="10" na="27">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="8670" it="0" lt="4654" ct="0" ts="1789547072109" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-10" dt="text" by="388076" sby="154" ng="5" na="27">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="9811" it="0" lt="1228" ct="0" ts="1789547071057" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-10" dt="text" by="316268" sby="143" ng="2" na="26">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="8363" it="0" lt="5109" ct="0" ts="1789547072681" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-9" dt="text" by="388076" sby="154" ng="4" na="26">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="11965" it="0" lt="2181" ct="0" ts="1789547069173" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-2" dt="text" by="355173" sby="126" ng="10" na="25">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="3311" it="0" lt="2902" ct="0" ts="1789547078096" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-9" dt="text" by="316268" sby="143" ng="2" na="25">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="16049" it="0" lt="2772" ct="0" ts="1789547065431" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-4" dt="text" by="388075" sby="154" ng="3" na="24">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="11411" it="0" lt="10222" ct="0" ts="1789547070088" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-9" dt="text" by="355279" sby="126" ng="10" na="24">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="12258" it="0" lt="2247" ct="0" ts="1789547069316" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-1" dt="text" by="355206" sby="126" ng="10" na="24">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="721" it="0" lt="395" ct="0" ts="1789547080869" s="true" lb="ShopClues-HTTP Request" rc="200" rm="OK" tn="Thread Group4 4-10" dt="text" by="316268" sby="143" ng="1" na="24">
+  <java.net.URL>https://www.shopclues.com/mobiles-and-tablets.html</java.net.URL>
+</httpSample>
+<httpSample t="11916" it="0" lt="7516" ct="0" ts="1789547069775" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-5" dt="text" by="355312" sby="126" ng="10" na="23">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="11958" it="0" lt="8566" ct="0" ts="1789547069774" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-6" dt="text" by="355169" sby="126" ng="10" na="23">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="12434" it="0" lt="8483" ct="0" ts="1789547069867" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-8" dt="text" by="355175" sby="126" ng="10" na="23">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="12118" it="0" lt="10073" ct="0" ts="1789547070329" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-10" dt="text" by="355119" sby="126" ng="10" na="23">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="14436" it="0" lt="513" ct="0" ts="1789547069447" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-1" dt="text" by="388075" sby="154" ng="3" na="23">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="14565" it="0" lt="10201" ct="0" ts="1789547070113" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-4" dt="text" by="355174" sby="126" ng="10" na="22">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="4923" it="0" lt="3284" ct="0" ts="1789547080601" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-7" dt="text" by="355228" sby="126" ng="10" na="22">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="24056" it="0" lt="2073" ct="1153" ts="1789547062683" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-8" dt="text" by="6953967" sby="143" ng="10" na="21">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="23506" it="0" lt="4613" ct="1976" ts="1789547063679" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-10" dt="text" by="6953950" sby="143" ng="10" na="21">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="7321" it="0" lt="6648" ct="0" ts="1789547082302" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-8" dt="text" by="355226" sby="126" ng="9" na="21">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="30798" it="0" lt="848" ct="473" ts="1789547061174" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-5" dt="text" by="6953967" sby="143" ng="10" na="20">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="7335" it="0" lt="4824" ct="0" ts="1789547084680" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-4" dt="text" by="355218" sby="126" ng="8" na="20">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="30135" it="0" lt="2986" ct="1674" ts="1789547063182" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-9" dt="text" by="6953967" sby="143" ng="10" na="19">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="13270" it="0" lt="3459" ct="0" ts="1789547080673" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-3" dt="text" by="355260" sby="126" ng="7" na="19">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="12912" it="0" lt="5498" ct="0" ts="1789547081692" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-5" dt="text" by="355170" sby="126" ng="6" na="18">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="24442" it="0" lt="1203" ct="0" ts="1789547070707" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-7" dt="text" by="388076" sby="154" ng="2" na="17">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="35028" it="0" lt="948" ct="687" ts="1789547061669" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-6" dt="text" by="6953951" sby="143" ng="10" na="17">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="15357" it="0" lt="1051" ct="0" ts="1789547081480" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-4" dt="text" by="388076" sby="154" ng="2" na="17">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="16393" it="0" lt="3527" ct="0" ts="1789547081138" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-2" dt="text" by="355274" sby="126" ng="5" na="16">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="16140" it="0" lt="4223" ct="0" ts="1789547081575" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-1" dt="text" by="355090" sby="126" ng="4" na="15">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="16761" it="0" lt="15930" ct="0" ts="1789547081733" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-6" dt="text" by="355169" sby="126" ng="3" na="14">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="13938" it="0" lt="3870" ct="0" ts="1789547086740" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-8" dt="text" by="6954372" sby="143" ng="10" na="13">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14353" it="0" lt="1776" ct="0" ts="1789547087186" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-10" dt="text" by="6954372" sby="143" ng="10" na="13">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="6471" it="0" lt="630" ct="0" ts="1789547095150" s="true" lb="SnapDeal-HTTP Request" rc="200" rm="OK" tn="Thread Group5 5-7" dt="text" by="388076" sby="154" ng="1" na="13">
+  <java.net.URL>https://www.snapdeal.com/products/home-kitchen-dining-serving</java.net.URL>
+</httpSample>
+<httpSample t="39820" it="0" lt="943" ct="530" ts="1789547062168" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-7" dt="text" by="6953951" sby="143" ng="10" na="12">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="22439" it="0" lt="17619" ct="0" ts="1789547082448" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-10" dt="text" by="355213" sby="126" ng="2" na="12">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="13665" it="0" lt="124" ct="0" ts="1789547091972" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-5" dt="text" by="6954084" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="47375" it="0" lt="1230" ct="351" ts="1789547060169" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-3" dt="text" by="6953942" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="16092" it="0" lt="118" ct="0" ts="1789547093317" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-9" dt="text" by="6953986" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="50145" it="0" lt="1559" ct="851" ts="1789547059669" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-2" dt="text" by="6954013" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="49671" it="0" lt="587" ct="76" ts="1789547060668" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-4" dt="text" by="6953968" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="52245" it="0" lt="2145" ct="1279" ts="1789547059240" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-1" dt="text" by="6954013" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14886" it="0" lt="225" ct="0" ts="1789547096697" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-6" dt="text" by="6954000" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="13737" it="0" lt="62" ct="0" ts="1789547101540" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-10" dt="text" by="6953998" sby="143" ng="10" na="11">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14976" it="0" lt="206" ct="0" ts="1789547100681" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-8" dt="text" by="6954000" sby="143" ng="9" na="10">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="9621" it="0" lt="73" ct="0" ts="1789547110340" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-4" dt="text" by="6953962" sby="143" ng="8" na="9">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="38535" it="0" lt="3858" ct="0" ts="1789547081500" s="true" lb="Swiggy-HTTP Request" rc="200" rm="OK" tn="Thread Group2 2-9" dt="text" by="355123" sby="126" ng="1" na="9">
+  <java.net.URL>https://www.swiggy.com/corporate/</java.net.URL>
+</httpSample>
+<httpSample t="8535" it="0" lt="50" ct="0" ts="1789547111585" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-6" dt="text" by="6953998" sby="143" ng="8" na="8">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="18301" it="0" lt="191" ct="0" ts="1789547101989" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-7" dt="text" by="6953962" sby="143" ng="7" na="7">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14829" it="0" lt="292" ct="0" ts="1789547105639" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-5" dt="text" by="6953998" sby="143" ng="7" na="7">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="14770" it="0" lt="205" ct="0" ts="1789547107545" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-3" dt="text" by="6953964" sby="143" ng="6" na="6">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="13000" it="0" lt="76" ct="0" ts="1789547109411" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-9" dt="text" by="6953963" sby="143" ng="6" na="6">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="12808" it="0" lt="155" ct="0" ts="1789547109815" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-2" dt="text" by="6953962" sby="143" ng="5" na="5">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="11902" it="0" lt="95" ct="0" ts="1789547111486" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-1" dt="text" by="6953962" sby="143" ng="5" na="5">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="5649" it="0" lt="152" ct="0" ts="1789547119962" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-4" dt="text" by="6954000" sby="143" ng="5" na="5">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="5343" it="0" lt="183" ct="141" ts="1789547122315" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-3" dt="text" by="6953951" sby="143" ng="4" na="4">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="7971" it="0" lt="87" ct="0" ts="1789547120292" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-7" dt="text" by="6953998" sby="143" ng="3" na="3">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="5938" it="0" lt="323" ct="192" ts="1789547122623" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-2" dt="text" by="6953966" sby="143" ng="2" na="2">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+<httpSample t="5530" it="0" lt="265" ct="176" ts="1789547123389" s="true" lb="JioMart-HTTP Request" rc="200" rm="OK" tn="Thread Group1 1-1" dt="text" by="6953951" sby="143" ng="1" na="1">
+  <java.net.URL>https://www.jiomart.com/sections/quick-grocery-new</java.net.URL>
+</httpSample>
+
+</testResults>
